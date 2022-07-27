@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,300&display=swap');
+
+body{
+    font-family:'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(236, 236, 236);
+}
+
+.quem-somos {
+    background-color: rgb(195, 195, 241);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.texto {
+    margin-top: 10px;
+}
+
+.parceiros {
+    background-color: beige;
+}
+
+.col-lg-4{
+    margin-top: 15px;
+}
